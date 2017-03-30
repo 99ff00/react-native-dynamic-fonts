@@ -9,7 +9,7 @@ const { NativeModules } = require('react-native');
 const { DynamicFonts } = NativeModules;
 
 module.exports = {
-	loadFont: function(name, data, _type) {
+	loadFont: function(name, data, type) {
 		if (!name)
 			throw new Error('Name is a required argument');
 
