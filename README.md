@@ -1,5 +1,5 @@
 
-# React Native Image Picker [![npm version](https://badge.fury.io/js/react-native-dynamic-fonts.svg)](https://badge.fury.io/js/react-native-dynamic-fonts) [![npm](https://img.shields.io/npm/dt/react-native-dynamic-fonts.svg)](https://www.npmjs.org/package/react-native-dynamic-fonts) ![MIT](https://img.shields.io/dub/l/vibe-d.svg) ![Platform - Android and iOS](https://img.shields.io/badge/platform-Android%20%7C%20iOS-yellow.svg)
+# React Native Dynamic Font Loader [![npm version](https://badge.fury.io/js/react-native-dynamic-fonts.svg)](https://badge.fury.io/js/react-native-dynamic-fonts) [![npm](https://img.shields.io/npm/dt/react-native-dynamic-fonts.svg)](https://www.npmjs.org/package/react-native-dynamic-fonts) ![MIT](https://img.shields.io/dub/l/vibe-d.svg) ![Platform - Android and iOS](https://img.shields.io/badge/platform-Android%20%7C%20iOS-yellow.svg)
 
 A React Native module that allows you to load fonts dynamically at runtime via base64 encoded TTF or OTF, like so:
 
