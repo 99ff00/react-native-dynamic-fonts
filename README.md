@@ -82,7 +82,7 @@ option | iOS  | Android | Info
 ------ | ---- | ------- | ----
 name | Not used | Used | Specify registered font name (doesn't work for iOS)
 data | Used | Used | This can be a data URI or raw base64... if it is raw base64 type must be specified, but defaults to TTF (data URI mime: font/ttf or font/otf)
-type | Used | Used | Specify the type of font in the encoded data (ttf or otf)
+type | Used | Used | (optional) Specify the type of font in the encoded data (ttf or otf). Defaults to "ttf"
 
 ### The Response
 
