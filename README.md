@@ -42,7 +42,7 @@ A React Native module that allows you to load fonts dynamically at runtime via b
     
 3. Add the import and link the package in `MainApplication.java`:
     ```java
-    import com.imagepicker.ImagePickerPackage; // <-- add this import
+    import org.th317erd.react.DynamicFontsPackage; // <-- add this import
 
     public class MainApplication extends Application implements ReactApplication {
         @Override
